@@ -37,7 +37,8 @@ Screen2 → pop → กลับ Screen1
 
 
 # HOME
-<img width="482" height="946" alt="image" src="https://github.com/user-attachments/assets/b6d58f6f-5553-4ca9-901d-ebfdec6148b2" />
+<img width="479" height="947" alt="image" src="https://github.com/user-attachments/assets/aad490cb-d518-4c2e-9f14-992d4612a7fe" />
+
 
 # Navigator
 <img width="482" height="946" alt="image" src="https://github.com/user-attachments/assets/069bec96-87f7-4ba2-8af6-69a34da91e60" />
