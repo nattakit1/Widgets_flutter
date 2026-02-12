@@ -47,4 +47,4 @@ Screen2 → pop → กลับ Screen1
 
 # Using the Router
 <img width="482" height="946" alt="image" src="https://github.com/user-attachments/assets/2e1e1dc6-ef08-4d73-bd71-3289c7de77ab" />
->>>>>>> 89b7218f28a551eee676e9dd4453878c4a112f78
+
