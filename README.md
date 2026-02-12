@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-# flutter_application_3
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # LAB8
 # ณัฐกิตต์ แก้วคำยศ
 # Flutter Navigation and Routing
@@ -65,4 +47,6 @@ Screen2 → pop → กลับ Screen1
 
 # Using the Router
 <img width="482" height="946" alt="image" src="https://github.com/user-attachments/assets/2e1e1dc6-ef08-4d73-bd71-3289c7de77ab" />
->>>>>>> 89b7218f28a551eee676e9dd4453878c4a112f78
+
+<img width="779" height="646" alt="image" src="https://github.com/user-attachments/assets/b6810529-e87f-493e-ad52-52e96ef8728a" />
+
